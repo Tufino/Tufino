@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @Tufino
-- 👀 I’m interested in sustainability
-- 🌱 I’m currently learning flutter and dart
-- 💞️ I’m looking to collaborate on anything
